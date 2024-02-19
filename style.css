@@ -225,22 +225,22 @@ span{
 }
 
 .bars .progress-line.html {
-    width: 90%;
+    width: 95%;
     background-color: purple;
 }
 
 .bars .progress-line.css {
-    width: 90%;
+    width: 85%;
     background-color: blue;
 }
 
-.bars .progress-line.javascript {
-    width: 40%;
+.bars .progress-line.postman {
+    width: 80%;
     background-color: green;
 }
 
-.bars .progress-line.mysql {
-    width: 50%;
+.bars .progress-line.jira {
+    width: 70%;
     background-color: orange;
 }
 
